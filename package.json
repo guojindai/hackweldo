@@ -1,0 +1,12 @@
+{
+  "name": "hackweldo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hack.js",
+  "author": "Ethan Guo",
+  "dependencies": {
+    "async": "^2.0.1",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {}
+}
